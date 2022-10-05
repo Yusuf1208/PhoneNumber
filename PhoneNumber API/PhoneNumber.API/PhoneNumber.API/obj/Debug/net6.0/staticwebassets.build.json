@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YmLPAmDBBw+d3cfx+sS/1K2zgnRA+W4eGBx+dFNzkCI=",
+  "Source": "PhoneNumber.API",
+  "BasePath": "_content/PhoneNumber.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
